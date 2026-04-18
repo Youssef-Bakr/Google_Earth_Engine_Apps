@@ -1,8 +1,3 @@
-//# Google Earth Engine Apps
-//## https://ee-spectralsignaturensdi.projects.earthengine.app/
-
-//## https://ee-spectralsignaturensdi.projects.earthengine.app/view/v05egypt-vegetation-areamodisunccd-egypt-report
-
 //https://ee-spectralsignaturensdi.projects.earthengine.app/view/v05egypt-vegetation-areamodisunccd-egypt-report
 //Change-Detection/NDVI/Egypt/2026-04-18_v05_Egypt-Vegetation-Area_MODIS_UNCCD-Egypt-Report-2026_PeriodII-Baseline
 //2026-04-18_v05_Egypt-Vegetation-Area_MODIS_UNCCD-Egypt-Report-2026_PeriodII-Baseline
