@@ -187,7 +187,7 @@ panel.widgets().set(2, Label02);
 var Label03 = ui.Label('Layers:\nNDVI-2025 subtract NDVI-2024\nNDVI-2024 subtract NDVI-2023\nNDVI-2025 subtract NDVI-2023\n{min: -1, max: 1, palette: [red, yellow, green]}', {whiteSpace: 'pre'});
 panel.widgets().set(3, Label03);
 // ----------------------------------------------------------------------------------------
-var Label04 = ui.Label(' Dr. Mohamed AbdAlla & Eng. Youssef Mohamed Bakr\n    DRC Remote Sensing Unit\n    https://github.com/Youssef-Bakr/DRC_UNCCD_GEE', {whiteSpace: 'pre'});
+var Label04 = ui.Label('Youssef Mohamed Bakr\n    DRC Remote Sensing Unit\n    https://github.com/Youssef-Bakr/DRC_UNCCD_GEE', {whiteSpace: 'pre'});
 panel.widgets().set(4, Label04);
 // ----------------------------------------------------------------------------------------
 
